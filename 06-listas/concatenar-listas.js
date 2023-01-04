@@ -7,7 +7,7 @@ console.log(l3);
 
 // como unir dos listas con el factor de propagacion
 
-//otra forma de concatenar
+//otra forma de concatenar(factor de propagacion)
 console.log(...l3)
 const l4 = [...l1,...l2]
 console.log(l4)
